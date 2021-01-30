@@ -1,0 +1,17 @@
+#JoinWelcome Plugin config file
+#Settings:
+#  Title: "Default Title"
+#  SubTitle: "Default Subtitle"
+#  Fade: 10
+#  Stay: 50
+Settings:
+  # 大标题内容（支持颜色代码）
+  Title: "&b&lBlueDream·梦之蓝"
+  # 子标题内容（跟随在玩家名称后，支持颜色代码）
+  SubTitle: "欢迎回到本社区！"
+  # 淡入淡出时间(tick)#
+  # 1s = 20tick
+  Fade: 10
+  # 保留时间(tick)#
+  # 1s = 20tick
+  Stay: 50
